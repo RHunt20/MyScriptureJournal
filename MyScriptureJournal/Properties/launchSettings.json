@@ -1,12 +1,13 @@
 ﻿{
   "iisSettings": {
-    "windowsAuthentication": false, 
-    "anonymousAuthentication": true, 
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:53561",
       "sslPort": 44353
     }
   },
+
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
@@ -15,6 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+
     "MyScriptureJournal": {
       "commandName": "Project",
       "launchBrowser": true,

@@ -33,6 +33,7 @@ namespace MyScriptureJournal
             }
 
             host.Run();
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
