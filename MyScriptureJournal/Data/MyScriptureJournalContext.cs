@@ -15,4 +15,5 @@ namespace MyScriptureJournal.Models
 
         public DbSet<MyScriptureJournal.Models.JournalEntry> JournalEntry { get; set; }
     }
+
 }

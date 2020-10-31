@@ -31,4 +31,5 @@ namespace MyScriptureJournal.Migrations
                 name: "JournalEntry");
         }
     }
+
 }

@@ -18,5 +18,6 @@ namespace MyScriptureJournal.Models
         public string Book { get; set; }
         public string Reference { get; set; }
         public string Notes { get; set; }
+
     }
 }
