@@ -1,4 +1,6 @@
-﻿﻿@import url('https://fonts.googleapis.com/css?family=Exo:200,500,500i,700,700i&display=swap');
+﻿
+﻿@import url('https://fonts.googleapis.com/css?family=Exo:200,500,500i,700,700i&display=swap');
+
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 body {
@@ -18,7 +20,7 @@ a.navbar-brand {
 }
 
 .navbar-light .navbar-brand {
-    color: #DD5F42;
+    color: #771db3;
 }
 
 /* Provide sufficient contrast against white background */
@@ -39,7 +41,7 @@ a {
 }
 
 .journal a {
-    color: #DD5F42;
+    color: #771db3;
 }
 
 .edit {
